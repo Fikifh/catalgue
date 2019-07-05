@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Submission1MovieCatalogue</string>
+    <string name="movies">Movies</string>
+    <string name="lorem">Lorem Ipsum met amet</string>
+
+    <string-array name="data_name">
+        <item>Infinity War</item>
+        <item>Zero kara Hajimeru Isekai Seikatsu-Memory Snow</item>
+        <item>Wild and Free</item>
+        <item>Into the Spider-Verse</item>
+        <item>Venom</item>
+        <item>Deadpool 2</item>
+        <item>Robin Hood</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Black Panther</item>
+        <item>Ant-Man and the Wasp</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy…</item>
+        <item>Subaru and friends finally get a moment of peace, and Subaru goes on a certain secret mission that he must not let anyone find out about! However, even though Subaru is wearing a disguise, Petra and other children…</item>
+        <item>Ellie and Jake fall in love, but struggle with their relationship when they discover an unexpected connection between their pasts.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect…</item>
+        <item>Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boys life.</item>
+        <item>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock n roll band Queen in 1970. Hit songs become instant classics.…</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred…</item>
+        <item>King T Challa returns home from America to the reclusive, technologically advanced African nation of Wakanda to serve as his country s new leader. However, T Challa soon finds that he is challenged for the throne…</item>
+        <item>Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any…</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/infinity_war</item>
+        <item>@drawable/zero_kara</item>
+        <item>@drawable/wild_and_free</item>
+        <item>@drawable/spider_man</item>
+        <item>@drawable/venom</item>
+        <item>@drawable/deadpool</item>
+        <item>@drawable/rolhood</item>
+        <item>@drawable/bohemian</item>
+        <item>@drawable/bumblebee</item>
+        <item>@drawable/blackpanther</item>
+        <item>@drawable/antman</item>
+    </array>
+
+</resources>
